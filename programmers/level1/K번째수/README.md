@@ -6,7 +6,7 @@
 
 ## GitBlog 주소
 
-- 
+- https://hon99oo.github.io/algorithm/java_01/
 
 ## 문제풀이
 > java 알고리즘 문제 풀이의 첫 문제였다. 배열 생성도 어색하고 디버깅 하는 것도 너무 어려웠다. 몇가지 문법은 구글링을 해가면서 풀었다.
